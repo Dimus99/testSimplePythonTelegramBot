@@ -1,3 +1,3 @@
-sudo apt-get install python python-pip
+sudo apt install python-pip
 pip install pytelegrambotapi
-python ./bot.py
+python bot.py
