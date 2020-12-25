@@ -1,6 +1,3 @@
-sudo apt-get install software-properties-common
-sudo apt-add-repository universe
-sudo apt-get update
-sudo apt-get install python3-pip
-pip install pytelegrambotapi
+sudo apt install python3-pip
+pip3 install pytelegrambotapi
 python bot.py
