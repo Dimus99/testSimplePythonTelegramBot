@@ -1,3 +1,3 @@
 sudo apt install python3-pip
 pip3 install pytelegrambotapi
-python bot.py
+python3 bot.py
